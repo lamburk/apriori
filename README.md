@@ -1,7 +1,7 @@
 Apriori Assignment
 ==================
 
-C++ Implementation of Apriori Algorithm
+Write the apriori algorithm in C++, with the directions, and input and output files mentioned below.
 
 To run the implementation 
 =========================
